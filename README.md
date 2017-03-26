@@ -2,9 +2,9 @@ The "test-cases" directory contains both the source(4-C, 1-C++ file) as well as 
 
 References:
 
-http://llvm.org/docs/doxygen/html/classllvm_1_1LoopBase.html
-http://llvm.org/docs/WritingAnLLVMPass.html
-$LLVM_SRC/lib/Analysis/LoopPass.cpp
-http://llvm.org/docs/doxygen/html/classllvm_1_1BasicBlock.html
-http://llvm.org/docs/doxygen/html/classllvm_1_1Instruction.html
-Lecture slides
+1. http://llvm.org/docs/doxygen/html/classllvm_1_1LoopBase.html
+2. http://llvm.org/docs/WritingAnLLVMPass.html
+3. $LLVM_SRC/lib/Analysis/LoopPass.cpp
+4. http://llvm.org/docs/doxygen/html/classllvm_1_1BasicBlock.html
+5. http://llvm.org/docs/doxygen/html/classllvm_1_1Instruction.html
+6. Lecture slides
