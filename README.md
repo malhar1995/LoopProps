@@ -8,3 +8,5 @@ References:
 4. http://llvm.org/docs/doxygen/html/classllvm_1_1BasicBlock.html
 5. http://llvm.org/docs/doxygen/html/classllvm_1_1Instruction.html
 6. Lecture slides
+
+More details can be found in the attached PDF.
